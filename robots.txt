@@ -1,0 +1,1 @@
+Sitemap: https://ncc-compass.github.io/exam-timer/sitemap.xml
